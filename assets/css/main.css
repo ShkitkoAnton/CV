@@ -91,6 +91,10 @@ section {
   display: flex;
   margin-bottom: 0.2rem;
 }
+.description{
+  margin: 10;
+  padding: 10;
+}
 .experience__date {
   min-width: 185px;
   margin-bottom: 0.2rem;
